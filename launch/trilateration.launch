@@ -1,0 +1,6 @@
+<launch>  
+  <node name="trilateration_node" pkg="trilateration" type="trilateration_node" output="screen" respawn="true">
+  </node>
+
+</launch>
+
